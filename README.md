@@ -1,2 +1,2 @@
 # NN_Mie_Theory
-Neural net approach to solve Mie theory equations faster for vectors compared to previous python libraries
+Mie Theory is a set of equations which decribe the behavior light scattering. While incredibly powerful constantly calculating them can be computationally taxing. If an effort to both learn machine learning and expidite calculation time, this script is an attempt to train a neural network to predict solutions with the boost of CUDA & Pytorch. faster than inbuilt python Mie Theory libraries. WIP
